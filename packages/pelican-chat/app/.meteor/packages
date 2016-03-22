@@ -1,0 +1,32 @@
+# Meteor packages used by this project, one per line.
+# Check this file (and the other files in this directory) into your repository.
+#
+# 'meteor add' and 'meteor remove' will edit this file for you,
+# but you can also edit it by hand.
+
+meteor
+webapp
+logging
+tracker
+deps
+session
+ddp
+livedata
+mongo
+ui
+check
+jquery
+random
+ejson
+arunoda:streams
+kadira:flow-router
+konecty:nrr
+momentjs:moment
+mizzao:timesync
+reactive-var
+accounts-password
+standard-minifiers
+kevohagan:sweetalert
+ecmascript
+react
+fourseven:scss
