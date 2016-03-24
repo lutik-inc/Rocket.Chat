@@ -21,12 +21,12 @@ ejson
 arunoda:streams
 kadira:flow-router
 konecty:nrr
-momentjs:moment
-mizzao:timesync
 reactive-var
 accounts-password
-standard-minifiers
-kevohagan:sweetalert
 ecmascript
 react
 fourseven:scss
+meteorhacks:npm
+cosmos:browserify
+npm-container
+seba:minifiers-autoprefixer

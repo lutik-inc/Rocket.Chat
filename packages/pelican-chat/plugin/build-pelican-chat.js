@@ -6,4 +6,4 @@ var curPath = path.resolve('.');
 var packagePath = path.join(path.resolve('.'), 'packages', 'pelican-chat');
 var pluginPath = path.join(packagePath, 'plugin');
 
-shell.exec('sh '+pluginPath+'/build.sh');
+shell.exec('sh ' + pluginPath + '/build.sh');
